@@ -1,0 +1,15 @@
+.main{
+    display:flex;
+    text-align: center;
+    background-color: aliceblue;
+    width: 500px;
+    height:500px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.demo{
+    background-color: rgb(89, 35, 214);
+    color: white;
+    padding: 10px;
+}
