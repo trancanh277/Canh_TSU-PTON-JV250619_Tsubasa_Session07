@@ -1,0 +1,45 @@
+.header{
+    background-color: rgb(46, 38, 38);
+    color: white;
+    display:flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20%;
+    margin-bottom: 10px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.content{
+    width: 650px;
+    height: 170px;
+    background-color: aliceblue;
+    padding: 10px 20px;
+    margin-left: 160px;
+    
+}
+.content a{
+    text-decoration: none;
+}
+.more{
+    width: 650px;
+    height: 250px;
+    background-color: rgb(238, 241, 243);
+    padding: 10px 20px;
+    line-height: 10px;
+    margin-left: 160px;
+    margin-bottom: 10px;
+}
+.more a{
+    text-decoration: none;
+    color:black;
+}
+footer{
+    background-color: rgb(46, 38, 38);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
