@@ -1,0 +1,23 @@
+.container {
+    height: auto;
+    color: white;
+    display: grid;
+    grid-template-columns: 40% 25% 25%;
+    grid-auto-rows: 50px;
+    text-align: center;
+    padding: 10px;
+    gap: 10px;
+}
+
+.demo {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: rgb(12, 12, 66);
+    border: 1px solid black;
+}
+
+.big {
+    grid-row: span 2;
+}
